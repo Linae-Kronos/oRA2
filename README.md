@@ -20,8 +20,16 @@ This is the version 17956 from [Zerf](http://addons.us.to/addon/ora2)
 1. Close any instance of WoW
 2. Download **[oRA2 Zip file](https://github.com/Linae-Kronos/oRA2/archive/master.zip)**
 3. Extract the zip file wherever you want
-4. Copy the folder "oRA2" to Wow_Folder\Interface\AddOns
-5. This is what you should have on character selection screen :
+4. :warning: Rename the folder "oRA2-master" to "oRA2" :warning:
+5. Copy the folder "oRA2" to Wow_Folder\Interface\AddOns. Your addon folder should look like this :
+```
+├── WoW_Folder
+    ├── Interface
+        ├── Addons
+            ├── oRA2
+            	├── oRA2.toc
+```
+6. This is what you should have on character selection screen :
 
 ![ora2_charselect](https://cloud.githubusercontent.com/assets/24671466/24885077/d0bcce32-1e4c-11e7-8782-2a1c09780a29.png)
 
